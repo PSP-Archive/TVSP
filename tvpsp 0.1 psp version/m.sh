@@ -1,0 +1,5 @@
+make kxploit
+mkdir "E:/PSP/GAME/TVPSP"
+mkdir "E:/PSP/GAME/TVPSP%"
+mv "TVPSP/EBOOT.PBP" "E:/PSP/GAME/TVPSP"
+mv "TVPSP%/EBOOT.PBP" "E:/PSP/GAME/TVPSP%"
